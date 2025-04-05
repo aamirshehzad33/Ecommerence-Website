@@ -1,7 +1,7 @@
 
 # 🛒 BlinkIt-Clone-Full-Stack-Ecommerce
 
-An advanced full-stack e-commerce platform inspired by Blinkit, built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). This project features real-world functionalities like:
+An advanced full-stack e-commerce platform inspired by Blinkit, built using the **Full stack** (MongoDB, Express.js, React.js, Node.js). This project features real-world functionalities like:
 
 - 🔐 Secure user authentication with access & refresh tokens
 - ✉️ OTP-based email verification
